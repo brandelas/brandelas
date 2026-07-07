@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner de Eloísa Brandão" width="100%">
 </p>
+
 # Olá! Eu sou a Eloísa 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo meu portfólio enquanto exploro diferentes áreas do desenvolvimento de software.
