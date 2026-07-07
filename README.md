@@ -19,12 +19,14 @@ Meu objetivo é construir uma base sólida antes de escolher uma especializaçã
 ━━━━━━━━━━━━━━━━━━━━
 
 🎯 Objetivos
+
 . Construir um portfólio sólido.
 . Evoluir como desenvolvedora por meio de projetos práticos.
 . Contribuir para projetos open source.
 . Conquistar minha primeira oportunidade na área de tecnologia.
 
 📌 Projetos em destaque
+
 Em breve esta seção será preenchida com os projetos que estou desenvolvendo durante minha jornada de aprendizado.
 
 📫 Contato
