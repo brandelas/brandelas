@@ -6,6 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo meu 
 Gosto de aprender na prática, transformando conhecimento em projetos que refletem minha evolução. Atualmente estou desenvolvendo minhas habilidades em programação, versionamento de código e desenvolvimento web, sempre buscando escrever um código mais limpo, organizado e de fácil manutenção.
 
 🎓 Sobre mim
+
 Acredito que aprender vai muito além de concluir cursos. Por isso, procuro colocar em prática tudo o que estudo, documentando minha evolução por meio de projetos, experimentos e desafios pessoais.
 
 Meu objetivo é construir uma base sólida antes de escolher uma especialização dentro do desenvolvimento de software.
