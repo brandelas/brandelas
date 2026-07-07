@@ -42,6 +42,7 @@ Meu objetivo é construir uma base sólida antes de escolher uma especializaçã
 
 ## 📌 Projetos em destaque
 
+🚧 Em construção
 Em breve esta seção será preenchida com os projetos que estou desenvolvendo durante minha jornada de aprendizado.
 
 ---
