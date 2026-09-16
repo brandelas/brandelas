@@ -44,6 +44,10 @@ Meu objetivo é construir uma base sólida antes de escolher uma especializaçã
 
 ---
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Introdução_ao_Git-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/achievements/share/en-us/Brandelas-0688/9AJHG9PU?sharingId=D6C1F471AFCEEC7B)
+
+---
+
 ## 📌 Projetos em destaque
 
 🚧 Em construção.
