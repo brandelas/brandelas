@@ -49,6 +49,11 @@ Certificado de Introdução ao Git - Microsoft Learn
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Introdução_ao_Git-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/achievements/share/en-us/Brandelas-0688/9AJHG9PU?sharingId=D6C1F471AFCEEC7B)
 
+
+Fundamentos da computação do Google Cloud - Noções básicas da computação em nuvem
+
+<img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" alt="Google Cloud Skills Boost Badge" width="200">
+
 ---
 
 ## 📌 Projetos em destaque
